@@ -1,3 +1,5 @@
 *.h5
 test.py
 .idea
+.pyc
+__pycache__
